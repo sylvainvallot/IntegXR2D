@@ -24,8 +24,8 @@ Follow these steps to set up the project on your local machine.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/username/project.git
-cd project
+git clone https://github.com/sylvainvallot/IntegXR2D
+cd IntegXR2D
 ```
 
 ### Create the Conda Environment
